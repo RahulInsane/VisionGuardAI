@@ -2,6 +2,7 @@
 __pycache__/
 *.pyc
 *.pth
+!backend/model/best_model.pth
 
 # Virtual Env
 venv/
